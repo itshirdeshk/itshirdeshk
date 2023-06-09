@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itshirdeshk
-- 👀 I’m interested in Android Development 
+- 👀 I’m interested in Flutter Development 
 - 🌱 I’m currently learning Android Development 
 - 💞️ I’m looking to collaborate on Android and Web Development Projects
 - 📫 You can reach me by mail (Email id : hirdeshkhandelwal58@gmail.com)
