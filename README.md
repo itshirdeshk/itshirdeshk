@@ -131,8 +131,8 @@ const hirdesh = {
 <td width="50%">
 
 ### 🔗 Trimrr - URL Shortener
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)]([YOUR_GITHUB_LINK](https://github.com/itshirdeshk/Trimrr))
-[![Live](https://img.shields.io/badge/Live-Visit_Site-00C853?style=for-the-badge&logo=vercel)]([YOUR_LIVE_LINK](https://trimrr-sable.vercel.app/))
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/itshirdeshk/Trimrr)
+[![Live](https://img.shields.io/badge/Live-Visit_Site-00C853?style=for-the-badge&logo=vercel)](https://trimrr-sable.vercel.app/)
 
 **Tech Stack:** Next.js, ShadCN UI, Tailwind, Supabase
 
@@ -147,8 +147,8 @@ const hirdesh = {
 <td width="50%">
 
 ### 💬 Mystery Messenger
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)]([YOUR_GITHUB_LINK](https://github.com/itshirdeshk/Mystery-Messenger))
-[![Live](https://img.shields.io/badge/Live-Visit_Site-00C853?style=for-the-badge&logo=vercel)]([YOUR_LIVE_LINK](https://mystery-messenger-six.vercel.app/))
+[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/itshirdeshk/Mystery-Messenger)
+[![Live](https://img.shields.io/badge/Live-Visit_Site-00C853?style=for-the-badge&logo=vercel)](https://mystery-messenger-six.vercel.app/)
 
 **Tech Stack:** Next.js, MongoDB, Vercel AI SDK, Gemini API
 
@@ -209,7 +209,7 @@ Currently building innovative solutions with:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/itshirdeshk/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itshirdeshk/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/itshirdeshk)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itshirdeshk)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirdeshkhandelwal58@gmail.com)
